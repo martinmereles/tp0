@@ -4,5 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"client.h": "c",
+			"config.h": "c",
+			"log.h": "c"
+		}
+	}
 }
